@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable-next-line MD041 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=100&fontColor=ffffff)
 
 My name is **`Anurag Yadav`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
@@ -28,7 +28,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ## Connect with me
 
 [![LinkedIn][linkedin_badge]][linkedin_link]
-
 [![LeetCode user ay2000anuragyadav][leetCode_badge]][leetCode_link]
 
 
