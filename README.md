@@ -74,29 +74,19 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-
-
-
 ---
 
 ## My GitHub stats
 [![Anurag's GitHub stats][GitHub_api]][GitHub_link]
 [![Top Langs][Lang_card]][top_lang_api]
 
-<!-- Card references -->
-[GitHub_link]:https://github.com/anuraghazra/github-readme-stats "GitHub"
-[GitHub_api]: https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&theme=tokyonight "Anurag's GitHub Api"
 
-[Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2000AY&layout=compact&theme=tokyonight "Lang Card"
-[top_lang_api]: https://github.com/anuraghazra/github-readme-stats "lang API"
 
 
 
 <!-- link references -->
 [linkedin_link]: https://www.linkedin.com/in/anurag-ay/ "LinkedIn"
 [leetCode_link]: https://leetcode.com/ay2000anuragyadav/ "leetCode"
-
-
 
 <!-- badge references -->
 
@@ -129,6 +119,19 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 [Redux_badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white "Redux"
 
 [NodeJs_badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "NodeJs"
+
+<!-- Card references -->
+[GitHub_link]:https://github.com/anuraghazra/github-readme-stats "GitHub"
+[GitHub_api]: https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&theme=tokyonight "Anurag's GitHub Api"
+
+[Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2000AY&layout=compact&theme=tokyonight "Lang Card"
+[top_lang_api]: https://github.com/anuraghazra/github-readme-stats "lang API"
+
+
+
+
+
+
 
 
 
