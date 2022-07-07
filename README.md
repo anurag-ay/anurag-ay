@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **Anurag2000AY/Anurag2000AY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable-next-line MD041 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=100&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=100&fontColor=bat)
 
 My name is **`Anurag Yadav`**, I am a passionate about **Software Development**, **Machine Learning**, **Deep Learning** and **Fullstack Web Developement**.
 
@@ -29,7 +29,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [![LinkedIn][linkedin_badge]][linkedin_link]
 [![LeetCode user ay2000anuragyadav][leetCode_badge]][leetCode_link]
-
 
 ---
 
@@ -83,10 +82,9 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ## My GitHub stats
 
 ![GitHub stats][github_stats_img]
-
 ![Top Langs][top_langs_img]
 
-[*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
+[Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- link references -->
 [linkedin_link]: https://www.linkedin.com/in/anurag-ay/ "LinkedIn"
@@ -98,23 +96,23 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fay2000anuragyadav&logo=leetcode&logoColor=yellow "leetCode"
 
-[aws_badge]: https://img.shields.io/badge/-amazon-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
+[aws_badge]: https://img.shields.io/badge/-amazon-orange?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
 
-[bootstrap_badge]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
+[bootstrap_badge]: https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap "Bootstrap"
 
-[css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
+[css_img]: https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
 
-[git_badge]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
+[git_badge]: https://img.shields.io/badge/-git-purple?style=for-the-badge&logo=git "Git"
 
-[heroku_badge]: https://img.shields.io/badge/-heroku-ffffff?style=for-the-badge&logo=heroku&logoColor=79589F "Heroku"
+[heroku_badge]: https://img.shields.io/badge/-heroku-23593d88?style=for-the-badge&logo=heroku&logoColor=79589F "Heroku"
 
-[html_badge]: https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html5 "HTML"
+[html_badge]: https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5 "HTML"
 
-[javascript_badge]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
+[javascript_badge]: https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript "JavaScript"
 
 [linkedin_badge]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 
-[python_badge]: https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python "Python"
+[python_badge]: https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python "Python"
 
 [Firebase_badge]: https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white "Firebase"
 
