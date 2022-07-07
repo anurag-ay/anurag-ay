@@ -35,6 +35,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## `Tools And TechStack`
+<body bgcolor= "green">
 
 ### Programming Languages
 ![Python][python_badge]
@@ -69,6 +70,8 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Insert Animated line -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+</body>
+
 **`Active Platforms`**
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -84,24 +87,42 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 ## GitHub stats
 <!-- trophies -->
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="Anurag Yadav" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a> </p>
+
+<!-- Insert Animated line -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 <!-- Git Activeness -->
 <p align="center">
- <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="10px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-
-
-
-<!-- Git Hub Activity -->
-   <a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
+</p>
 
 
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+
+<!-- Git Hub Activity Graph -->
+<p><a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
+
+<!-- Most used Languages -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
+
+
+
+<!-- Insert Animated line -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+
+
+<!-- Add favorite repo
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
+
 
 
 <!-- link references -->
