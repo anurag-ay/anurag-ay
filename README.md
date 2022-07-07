@@ -80,11 +80,17 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ---
 
 ## My GitHub stats
+[![Anurag's GitHub stats][GitHub_api]][GitHub_link]
+[![Top Langs][Lang_card]][top_lang_api]
 
-![GitHub stats][github_stats_img]
-![Top Langs][top_langs_img]
+<!-- Card references -->
+[GitHub_link]:https://github.com/anuraghazra/github-readme-stats "GitHub"
+[GitHub_api]: https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&theme=tokyonight "Anurag's GitHub Api"
 
-[Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
+[Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2000AY&layout=compact&theme=tokyonight "Lang Card"
+[top_lang_api]: https://github.com/anuraghazra/github-readme-stats "lang API"
+
+
 
 <!-- link references -->
 [linkedin_link]: https://www.linkedin.com/in/anurag-ay/ "LinkedIn"
@@ -128,9 +134,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 
 
-<!-- img references -->
-[github_stats_img]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
-[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"
+
 
 
 
