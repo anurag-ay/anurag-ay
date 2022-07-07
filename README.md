@@ -83,23 +83,24 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 
 ## My GitHub stats
-
+<!-- trophies -->
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="Anurag Yadav" /></a> </p>
+
+<!-- Git Activeness -->
+<p align="center">
+ <!-- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="10px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
 
 
 
 <!-- Git Hub Activity -->
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+### Git Activity
 
-<!-- Git Activeness -->
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+   <a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a>
+
 
 <!-- Insert Animated line -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
