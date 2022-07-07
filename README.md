@@ -93,7 +93,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Activeness -->
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
 </p>
 
