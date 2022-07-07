@@ -35,7 +35,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## `Tools And TechStack`
-<body bgcolor= "green">
 
 ### Programming Languages
 ![Python][python_badge]
@@ -70,7 +69,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Insert Animated line -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-</body>
 
 **`Active Platforms`**
 
@@ -93,9 +91,9 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 <!-- Git Activeness -->
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="480" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="480" /></p>
 </p>
 
 
