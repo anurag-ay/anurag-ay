@@ -42,8 +42,8 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ![JavaScript][javascript_badge]
 
 ### Machine Learning  and Deep Learning
-![Anaconda][tensor_flow_link]
-![TensorFlow][keras_link]
+![Anaconda][Anoconda_link]
+![TensorFlow][tensor_flow_link]
 ![Keras][keras_link]
 ![NumPy][numpy_link]
 ![Pandas][pandas_link]
@@ -124,7 +124,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fay2000anuragyadav&logo=leetcode&logoColor=yellow "leetCode"
 
-[Anoconda_link]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white "ancodanda"
 
 [aws_badge]: https://img.shields.io/badge/-amazon-orange?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
 
@@ -154,6 +153,11 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [NodeJs_badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "NodeJs"
 
+[C++_link]:https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++"
+
+
+[Anoconda_link]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white "ancodanda"
+
 [tensor_flow_link]:https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white "tesnorflow"
 
 [keras_link]:https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white "keras"
@@ -164,7 +168,6 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [scikit-lenarn_link]:https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white "sckit-learn"
 
-[C++_link]:https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++"
 
 
 
