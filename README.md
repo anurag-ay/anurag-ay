@@ -85,16 +85,28 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 ## GitHub stats
 <!-- trophies -->
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a> </p>
+
+<p align="centre">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a>
+</p>
 
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Git Activeness -->
+<h2>Git Activeness</h2>
+
+<div>
+<p align="right">
+  
+
+  <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
-
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
+</p>
+</div>
 
 <!-- Insert Animated line -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
@@ -102,9 +114,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Hub Activity Graph -->
 <p><a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
 
-<!-- Most used Languages -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
 
 
 
