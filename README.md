@@ -23,33 +23,34 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 - 🔭 Working on multiple **Machine Learning**, **Deep Learning**, **Frontend and Backend** project using **TensorFlow**, `Python`,`JavaScript` **ReactJs**, **NodeJs** and **MongoDB**.
 
-<!-- Inset Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- Insert Animated line -->
+![anime_line][line_link]
 
-## Connect with me
+### **`Connect with me`**
 
 [![LinkedIn][linkedin_badge]][linkedin_link]
 [![LeetCode user ay2000anuragyadav][leetCode_badge]][leetCode_link]
 
-<!-- Inset Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- Insert Animated line -->
+![anime_line][line_link]
 
-## `Tools And TechStack`
+### **`Tools And TechStack`**
 
 ### Programming Languages
 ![Python][python_badge]
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++][C++_link]
 ![JavaScript][javascript_badge]
 
 ### Machine Learning  and Deep Learning
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda][tensor_flow_link]
+![TensorFlow][keras_link]
+![Keras][keras_link]
+![NumPy][numpy_link]
+![Pandas][pandas_link]
+![scikit-learn][scikit-lenarn_link]
 
 ### Web Development
+
 ![React][ReactJs_badge]
 ![Redux][Redux_badge]
 ![NodeJS][NodeJs_badge]
@@ -66,11 +67,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ### Version Control
 ![Git][git_badge]
 
-<!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-**`Active Platforms`**
+## **`Active Platforms`**
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
@@ -80,10 +77,10 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![anime_line][line_link]
 
 
-## GitHub stats
+### **GitHub stats**
 <!-- trophies -->
 
 <p align="centre">
@@ -92,7 +89,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 </p>
 
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![anime_line][line_link]
 
 <!-- Git Activeness -->
 <h2>Git Activeness</h2>
@@ -100,39 +97,34 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="400" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="400" />
 
-
-
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+![anime_line][line_link]
 
 <!-- Git Hub Activity Graph -->
 <p><a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
 
 
-
-
-
 <!-- Insert Animated line -->
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+![anime_line][line_link]
 
 
-<!-- Add favorite repo
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
-
-
+<!-- ___________________________Links and References_______________________________ -->
 
 <!-- link references -->
 [linkedin_link]: https://www.linkedin.com/in/anurag-ay/ "LinkedIn"
 [leetCode_link]: https://leetcode.com/ay2000anuragyadav/ "leetCode"
 
+
+<!-- line reference -->
+[anime_line]:https://www.youtube.com/watch?v=dQw4w9WgXcQ "anime line"
+
+[line_link]:https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif "line_link"
+
 <!-- badge references -->
 
 [leetCode_badge]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fay2000anuragyadav&logo=leetcode&logoColor=yellow "leetCode"
+
+[Anoconda_link]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white "ancodanda"
 
 [aws_badge]: https://img.shields.io/badge/-amazon-orange?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
 
@@ -161,6 +153,18 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 [Redux_badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white "Redux"
 
 [NodeJs_badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white "NodeJs"
+
+[tensor_flow_link]:https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white "tesnorflow"
+
+[keras_link]:https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white "keras"
+
+[numpy_link]:https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white "numpy"
+
+[pandas_link]:https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white "pandas"
+
+[scikit-lenarn_link]:https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white "sckit-learn"
+
+[C++_link]:https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++"
 
 
 
@@ -223,3 +227,12 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 
 [Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2000AY&layout=compact&theme=tokyonight "Lang Card"
 [top_lang_api]: https://github.com/anuraghazra/github-readme-stats "lang API" -->
+
+
+<!-- Add favorite repo
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
