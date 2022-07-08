@@ -97,17 +97,10 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Activeness -->
 <h2>Git Activeness</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="300" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="300" />
 
 
-<div>
-<p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
-</p>
-</div>
 
 <!-- Insert Animated line -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
