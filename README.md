@@ -97,11 +97,12 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Activeness -->
 <h2>Git Activeness</h2>
 
-<div>
-<p align="right">
-  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-  <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
+
+<div>
+<p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="410" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag2000AY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" width="410" /></p>
