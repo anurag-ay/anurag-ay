@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**Anurag2000AY/Anurag2000AY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anurag-ay/anurag-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -88,7 +88,7 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- trophies -->
 <p align="centre">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Anurag2000AY&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=anurag-ay&theme=radical&margin-h=15&margin-w=5&no-bg=false" alt="Anurag Yadav" width=1000 /></a>
 </p>
 
 <!-- Insert Animated line -->
@@ -97,14 +97,14 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 <!-- Git Activeness -->
 ### Git Activeness</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="400" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2000AY&theme=tokyonight" alt="ovi" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anurag-ay&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="400" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-ay&theme=tokyonight" alt="ovi" width="400" />
 
 <!-- Insert Animated line -->
 ![anime_line][line_link]
 
 <!-- Git Hub Activity Graph -->
-<p><a href="https://github.com/Anurag2000AY"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anurag2000AY&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
+<p><a href="https://github.com/anurag-ay"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anurag-ay&custom_title=Anurag's%20Contribution%20Graph&theme=react-dark" /></a></p>
 
 
 <!-- Insert Animated line -->
@@ -205,9 +205,9 @@ My name is **`Anurag Yadav`**, I am a passionate about **Software Development**,
 [![Top Langs][Lang_card]][top_lang_api]
 
 [GitHub_link]:https://github.com/anuraghazra/github-readme-stats "GitHub"
-[GitHub_api]: https://github-readme-stats.vercel.app/api?username=Anurag2000AY&show_icons=true&theme=tokyonight "Anurag's GitHub Api"
+[GitHub_api]: https://github-readme-stats.vercel.app/api?username=anurag-ay&show_icons=true&theme=tokyonight "Anurag's GitHub Api"
 
-[Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2000AY&layout=compact&theme=tokyonight "Lang Card"
+[Lang_card]: https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-ay&layout=compact&theme=tokyonight "Lang Card"
 [top_lang_api]: https://github.com/anuraghazra/github-readme-stats "lang API" -->
 
 
